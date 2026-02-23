@@ -1,0 +1,35 @@
+{
+    "name": "Millenium Veículos",
+    "short_name": "Millenium",
+    "description": "Os melhores veículos seminovos e novos com as melhores condições. Encontre o carro dos seus sonhos na Millenium Veículos!",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#d4a017",
+    "background_color": "#1a1a1a",
+    "categories": [
+        "business",
+        "shopping"
+    ],
+    "icons": [
+        {
+            "src": "icon-512.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "icon-512.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "icon-512.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ]
+}
